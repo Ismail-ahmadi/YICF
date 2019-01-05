@@ -5,10 +5,9 @@ layout: home
 image: 'https://ucarecdn.com/a1579fd2-58b1-4a9f-a56a-a91441fb0598/'
 imagehome: >-
   https://ucarecdn.com/e98b8a11-3f4f-4203-afcf-1000e5dd9bc1/-/crop/1500x725/0,45/-/preview/
-image1: >-
-  https://static1.squarespace.com/static/586b2fa83e00bec12e716bc7/t/5879e585b8a79b66d3f630e0/1484383622731/learning.gif?format=300w
-image2: 'https://ucarecdn.com/7558a666-0cf0-4685-964b-574d67bb1132/'
-image3: 'https://ucarecdn.com/42663e87-d4f9-4435-a69c-e73b13b30e55/'
+image1: 'https://ucarecdn.com/d1e79bf1-699b-42e2-8d0e-df1bf353c3cd/'
+image2: 'https://ucarecdn.com/4e37a915-90ba-4f94-b6bd-04c6740a1dc0/'
+image3: 'https://ucarecdn.com/df541d29-6a36-448f-9046-b765b2bd00ee/'
 ---
 
 ## Empowering refugees & the urban poor
